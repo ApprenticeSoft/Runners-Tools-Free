@@ -1,0 +1,142 @@
+
+Images.png
+format: RGBA8888
+filter: MipMapLinearNearest,Nearest
+repeat: none
+CelluleVitesse
+  rotate: false
+  xy: 1, 676
+  size: 690, 345
+  orig: 690, 345
+  offset: 0, 0
+  index: -1
+DrapeauES
+  rotate: false
+  xy: 693, 765
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Bouton
+  rotate: false
+  xy: 693, 630
+  size: 275, 133
+  orig: 275, 133
+  offset: 0, 0
+  index: -1
+Play
+  rotate: false
+  xy: 1, 203
+  size: 471, 471
+  orig: 471, 471
+  offset: 0, 0
+  index: -1
+Stop
+  rotate: false
+  xy: 474, 157
+  size: 471, 471
+  orig: 471, 471
+  offset: 0, 0
+  index: -1
+Option
+  rotate: false
+  xy: 1, 1
+  size: 199, 200
+  orig: 199, 200
+  offset: 0, 0
+  index: -1
+OptionChecked
+  rotate: false
+  xy: 202, 1
+  size: 199, 200
+  orig: 199, 200
+  offset: 0, 0
+  index: -1
+BoutonChecked
+  rotate: false
+  xy: 403, 22
+  size: 274, 133
+  orig: 274, 133
+  offset: 0, 0
+  index: -1
+CelluleVide
+  rotate: false
+  xy: 679, 102
+  size: 271, 53
+  orig: 271, 53
+  offset: 0, 0
+  index: -1
+Back
+  rotate: false
+  xy: 679, 23
+  size: 147, 77
+  orig: 147, 77
+  offset: 0, 0
+  index: -1
+BackChecked
+  rotate: false
+  xy: 828, 23
+  size: 147, 77
+  orig: 147, 77
+  offset: 0, 0
+  index: -1
+
+Images2.png
+format: RGBA8888
+filter: MipMapLinearNearest,Nearest
+repeat: none
+DrapeauESChecked
+  rotate: false
+  xy: 1, 517
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+DrapeauFR
+  rotate: false
+  xy: 1, 259
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+DrapeauFRChecked
+  rotate: false
+  xy: 259, 517
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+DrapeauUK
+  rotate: false
+  xy: 1, 1
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+DrapeauUKChecked
+  rotate: false
+  xy: 259, 259
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Barre
+  rotate: false
+  xy: 517, 730
+  size: 223, 43
+  orig: 223, 43
+  offset: 0, 0
+  index: -1
+
+Images3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CelluleVide
+  rotate: false
+  xy: 1, 1
+  size: 271, 53
+  orig: 271, 53
+  offset: 0, 0
+  index: -1
+

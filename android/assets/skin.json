@@ -1,0 +1,21 @@
+{
+	"com.badlogic.gdx.graphics.g2d.BitmapFont": {
+        "text": { "file": "Fonts/font1.fnt" },
+    },
+
+	"com.badlogic.gdx.graphics.Color": {
+       "white": { "r": 1, "g": 1, "b": 1, "a": 1 },
+        "black": { "r": 0, "g": 0, "b": 0, "a": 1 },
+        "red": {"r": 1, "g": 0, "b": 0, "a": 1}
+    },
+
+	"com.badlogic.gdx.scenes.scene2d.ui.TextField$TextFieldStyle": { 
+        "Test": { 	"font": text,
+        			"fontColor" : white
+        		},
+        "default": { 	"font": text,
+        				"fontColor" : white
+        		},
+    },
+
+}
